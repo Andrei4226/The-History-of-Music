@@ -1,5 +1,14 @@
-This website is written in <b>HTML</b> in the Microsoft Visual Studio development environment.
+# Evolution of Music Website
 
-The project includes an interactive menu and has the theme of the evolution of music, from antiquity to today's performances.
+## Description
+This website is written in HTML within the Microsoft Visual Studio development environment. 
 
-To open it, please access the <b>"Index.html"</b> page and explore on your own.
+The project includes an interactive menu and explores the theme of the evolution of music, from antiquity to today's performances.
+
+To explore the website, please access the "Index.html" page and navigate through the content at your own pace.
+
+## Usage
+1. Clone the repository to your local machine.
+2. Open the project in your preferred code editor.
+3. Navigate to the directory containing the "Index.html" file.
+4. Open the "Index.html" file using a web browser to explore the website.
